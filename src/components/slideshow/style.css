@@ -1,0 +1,5 @@
+/*This style was added just to remove the limitations of this slideshow library. */
+
+li {
+	list-style-type: none;
+}
